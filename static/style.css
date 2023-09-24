@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+html{
+	background:#0984e3;
+}
+body{
+	background:white;
+	width:800px;
+	height:1000px;
+	margin:0 auto;
+	padding:15px;
+	font-family:roboto;
+	color:#2d3436
+}
+h1{
+	text-align:center;
+	border-bottom:1px solid grey;
+	font-family:Galata;
+	padding:20px;
+	margin-bottom:25px;
+	color:#6c5ce7
+}
